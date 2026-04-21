@@ -2,7 +2,8 @@ theme: minima
 title: Uyen Dang's Blog
 author: Uyen Dang
 email: dtleuyen@gmail.com
-description: The blog helps me to update my knowlege related to AI everyday.
+description: My daily journey into Deep Learning, Medical Imaging, Missing Data, and the search for fairer algorithms.
 
-LinkedIn: \href{https://linkedin.com/in/leuyendt}
-GitHub: \href{https://github.com/DangLeUyen}
+Social links:
+- LinkedIn: https://linkedin.com/in/leuyendt
+- GitHub: https://github.com/DangLeUyen
