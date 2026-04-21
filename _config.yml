@@ -1,5 +1,7 @@
-theme: jekyll-theme-minimal
-title: Uyen Dang's homepage
+theme: minima
+title: Uyen Dang's Blog
+author: Uyen Dang
+email: dtleuyen@gmail.com
 description: The blog helps me to update my knowlege related to AI everyday.
 
 LinkedIn: \href{https://linkedin.com/in/leuyendt}
