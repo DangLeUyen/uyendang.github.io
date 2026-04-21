@@ -7,7 +7,7 @@ I’m currently deep-diving into the challenges of healthcare AI, specifically h
 - Vo, T. L., Dang, U., Nguyen, T., Halvorsen, P., Riegler, M. A., & Nguyen, B. T. (2026, January). DPERC: Direct Parameter Estimation for Mixed Data with Random Missingness. In International Conference on Multimedia Modeling (pp. 661-675). Singapore: Springer Nature Singapore.
 - Do, T. T., Hua, V., Dang, U., Nguyen, T., Hicks, S., Halvorsen, P., ... & Nguyen, B. T. (2026, January). Low-Dimension Representation Estimation in Principal Component Analysis Under Missing Data. In International Conference on Multimedia Modeling (pp. 346-360). Singapore: Springer Nature Singapore.
 - Nguyen, T., Dang, U., Vo, T. L., Halvorsen, P., & Riegler, M. A. (2025). Imputation using training labels and classification via label imputation. IEEE Access, 13, 196539-196551.
-  
+
 **Social Links**
 - LinkedIn: https://linkedin.com/in/leuyendt
 - GitHub: https://github.com/DangLeUyen
