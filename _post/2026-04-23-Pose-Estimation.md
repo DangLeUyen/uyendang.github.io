@@ -1,8 +1,8 @@
 ---
 layout: post
-title: "Pose Estimation"
+title: "POSE-ESTIMATION"
 date: 2026-04-23 15:22:00 -0000
-categories: Pose Estimation
+categories: PoseEstimation
 ---
 
 ## Pose Estimation - Part 1
