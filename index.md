@@ -4,17 +4,13 @@ I’m currently deep-diving into the challenges of healthcare AI, specifically h
 
 **Publications**
 - PICA: Interpretable imputation for randomly missing Data, 2026 - Information Sciences
-
-  DOI: [10.1016/j.ins.2026.123532](https://doi.org/10.1016/j.ins.2026.123532)
+  - [10.1016/j.ins.2026.123532](https://doi.org/10.1016/j.ins.2026.123532)
 - Direct Parameter Estimation for Mixed Data (DPERC), 2026 - MMM Conference
-
-  DOI: [10.1007/978-981-95-6957-1_47](https://doi.org/10.1007/978-981-95-6957-1_47)
+  - DOI: [10.1007/978-981-95-6957-1_47](https://doi.org/10.1007/978-981-95-6957-1_47)
 - Low-Dimension Representation Estimation in Principal Component Analysis Under Missing Data, 2026 - MMM Conference
-
-  DOI: [10.1007/978-981-95-6957-1_25](https://doi.org/10.1007/978-981-95-6957-1_25)
+  - DOI: [10.1007/978-981-95-6957-1_25](https://doi.org/10.1007/978-981-95-6957-1_25)
 - Imputation using training labels and classification via label imputation, 2025 - IEEE Access
-
-  DOI: [10.1109/ACCESS.2025.3633801](https://doi.org/10.1109/access.2025.3633801)
+  - DOI: [10.1109/ACCESS.2025.3633801](https://doi.org/10.1109/access.2025.3633801)
 
 **Social Links**
 - LinkedIn: [Uyen Dang Profile](https://linkedin.com/in/leuyendt)
