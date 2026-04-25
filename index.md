@@ -1,3 +1,6 @@
+---
+layout: home
+---
 Welcome to my daily blog. As a student in Computer and Information Science, I believe the best way to master Deep Learning and Machine Learning is to explain it from scratch. This blog documents my path through the complexities of Machine Learning architectures, with a specialized focus on Medical Imaging.
 
 I’m currently deep-diving into the challenges of healthcare AI, specifically how to handle missing data and mitigate bias to ensure fair outcomes. By integrating Explainable AI (XAI) into my workflow, I’m working to make the "why" behind model decisions as clear as the "what." Join me as I bridge the gap between academic theory and technical mastery. 
