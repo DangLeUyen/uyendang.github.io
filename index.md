@@ -4,7 +4,7 @@ I’m currently deep-diving into the challenges of healthcare AI, specifically h
 
 **Publications**
 - PICA: Interpretable imputation for randomly missing Data, 2026 - Information Sciences
-  - [10.1016/j.ins.2026.123532](https://doi.org/10.1016/j.ins.2026.123532)
+  - DOI [10.1016/j.ins.2026.123532](https://doi.org/10.1016/j.ins.2026.123532)
 - Direct Parameter Estimation for Mixed Data (DPERC), 2026 - MMM Conference
   - DOI: [10.1007/978-981-95-6957-1_47](https://doi.org/10.1007/978-981-95-6957-1_47)
 - Low-Dimension Representation Estimation in Principal Component Analysis Under Missing Data, 2026 - MMM Conference
