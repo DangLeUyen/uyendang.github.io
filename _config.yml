@@ -4,6 +4,8 @@ author: Uyen Dang
 email: dtleuyen@gmail.com
 description: My research interests include Missing Data, Medical Imaging, XAI, AI Bias
 
+show_excerpts: true
+
 pagination:
     enabled: true
     per_page: 10
